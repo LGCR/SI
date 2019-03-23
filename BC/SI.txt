@@ -1,0 +1,3 @@
+As características do ambiente são: monoagente, determinístico, episódico, estático e discreto.
+
+69 Estados podem ser alcançados pelo agente.
